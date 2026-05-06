@@ -32,8 +32,8 @@ export function Philosophy() {
             }`}
           >
             <img
-              src="/minimalist-japanese-interior-design-with-natural-w.jpg"
-              alt="Минималистичный интерьер с натуральным деревом"
+              src="https://cdn.poehali.dev/projects/a26049df-3118-4797-bdfe-a547e6e3e55c/files/bbc9be8b-f5b6-4030-910b-9f239fb08a8a.jpg"
+              alt="Здоровый образ жизни и похудение"
               className="absolute inset-0 w-full h-full object-cover"
             />
             {/* Overlay accent */}
@@ -47,7 +47,7 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
               }`}
             >
-              Наша философия
+              О курсе
             </p>
 
             <h2
@@ -55,10 +55,10 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Искусство
-              <span className="italic"> осознанной</span>
+              Путь к
+              <span className="italic"> стройному</span>
               <br />
-              жизни
+              телу
             </h2>
 
             <div
@@ -67,13 +67,13 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Мы верим, что каждый человек способен изменить своё тело. Не через изматывающие диеты и голодовки,
+                а через правильные привычки и понимание своего организма.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                Наш курс основан на <em className="text-foreground">доказательной нутрициологии</em> и
+                поведенческой психологии — вы не просто худеете, вы меняете
+                <em className="text-foreground"> образ жизни</em> навсегда.
               </p>
             </div>
 
@@ -84,16 +84,16 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">3000+</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Выпускников</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">−12 кг</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Средний результат</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">8 нед</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Длительность</p>
               </div>
             </div>
           </div>
